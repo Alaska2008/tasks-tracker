@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Washing of the bowls and preparing of a delicious meal for the family",
+      "day": "Feb 5th at 3:30pm ",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Studying programming using python and rails on Ruby",
+      "day": "Feb 6th at 7am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Going for shopping with the family",
+      "day": "Feb 10th at 2pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Writing some prrogramming code",
+      "day": "Mar 2nd at 7am",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Early morning Workout",
+      "day": "Mar 3rd at 5am",
+      "reminder": false
+    },
+    {
+      "text": "yyyyy",
+      "day": "jjjjjjj",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
